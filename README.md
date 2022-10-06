@@ -1,11 +1,12 @@
-# Bootcamp Dio - Geração Tech Unimed-BH - Ciência de Dados
+##  👩‍🔬 Bootcamp Dio - Geração Tech Unimed-BH - Ciência de Dados
 
 O bootcamp Unimed-BH Ciência de Dados é para profissionais que já atuam com ciência de dados ou estão começando na carreira. Durante o programa, você vai ter experiências educacionais com Python, banco de dados relacional e não relacional, além de uma imersão Cloud Computer e Machine Learning.
 
-O evento tem duração de 126hrs.
+O bootcamp tem duração de 126hrs e você pode conferir a página do evento [AQUI.](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-ciencia-de-dados?ref=CG-bootcamp-unimed-bh-ciencia-de-dados)
 
-## 💻Sobre o conteúdo:
-Este repositório contém todos os desafios de código e desafios de projeto do bootcamp Ciência de Dados promovido pela Dio. Você pode conferir a página do evento [AQUI.](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-ciencia-de-dados?ref=CG-bootcamp-unimed-bh-ciencia-de-dados)
+
+## 💻Sobre o conteúdo
+Este repositório contém todos as anotações, desafios de código e desafios de projeto do bootcamp que foram abordados nos seguintes módulos :
 
 
 
