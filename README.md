@@ -23,10 +23,10 @@ Este repositório contém todos as anotações, desafios de código e desafios d
 
 ## 👩‍🔧 Desafios de Projeto:
 
-- Primeiro Repositório no GitHub Para Compartilhar Seu Progresso.
+- [Primeiro Repositório no GitHub Para Compartilhar Seu Progresso.](https://github.com/DeboraSouza277/bootcamp-Dio-ciencia_de_dados)
 
 
 ## 👩‍💻 Desafios de Código:
-- Desafios Iniciais Py - Unimed-BH
+- [Desafios Iniciais Py - Unimed-BH ](https://github.com/DeboraSouza277/bootcamp-Dio-ciencia_de_dados/tree/main/Desafio_de_Codigo)
 
  
