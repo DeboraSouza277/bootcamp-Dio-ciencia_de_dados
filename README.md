@@ -25,6 +25,8 @@ Este repositório contém todos as anotações, desafios de código e desafios d
 
 - [Primeiro Repositório no GitHub Para Compartilhar Seu Progresso.](https://github.com/DeboraSouza277/bootcamp-Dio-ciencia_de_dados)
 
+- [Análise de dados com Python e Pandas.](https://github.com/DeboraSouza277/bootcamp-Dio-ciencia_de_dados/tree/main/Desafio_de_Projeto/An%C3%A1lise%20%20Python%20e%20Pandas)
+
 
 ## 👩‍💻 Desafios de Código:
 - [Desafios Iniciais Py - Unimed-BH ](https://github.com/DeboraSouza277/bootcamp-Dio-ciencia_de_dados/tree/main/Desafio_de_Codigo)
