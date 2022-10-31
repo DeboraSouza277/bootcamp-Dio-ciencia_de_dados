@@ -28,6 +28,9 @@ Este repositório contém todos as anotações, desafios de código e desafios d
 - [Análise de dados com Python e Pandas.](https://github.com/DeboraSouza277/bootcamp-Dio-ciencia_de_dados/tree/main/Desafio_de_Projeto/An%C3%A1lise%20%20Python%20e%20Pandas)
 
 
+- [Modelos de Python e Machine Learning para prever a evolução do COVID-19 no Brasil](https://github.com/DeboraSouza277/bootcamp-Dio-ciencia_de_dados/blob/main/Desafio_de_Projeto/Modelos%20de%20Python%20e%20Machine%20Learning%20para%20prever%20a%20evolu%C3%A7%C3%A3o%20do%20COVID-19%20no%20Brasil/An%C3%A1lises%20COVID-19_Dio.ipynb)
+
+
 ## 👩‍💻 Desafios de Código:
 - [Desafios Iniciais Py - Unimed-BH ](https://github.com/DeboraSouza277/bootcamp-Dio-ciencia_de_dados/tree/main/Desafio_de_Codigo)
 
