@@ -14,12 +14,12 @@ Narrativa:
 - Os mecânicos possuem código, nome, endereço e especialidade
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
+# 👩🏾‍🔧 Ferramentas Utilizadas:
+
+ - MySQL Workbench
 
 # 👩🏾‍💻 Resultado :
 
 ![imagem](https://github.com/DeboraSouza277/bootcamp-Dio-ciencia_de_dados/blob/main/Desafio_de_Projeto/Modelo%20Banco%20Dados%20Conceitual%20Oficina/Banco%20de%20Dados%20Oficina.png)
 
 
-# 👩🏾‍🔧 Ferramentas Utilizadas:
-
-MySQL Workbench
